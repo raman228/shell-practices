@@ -17,9 +17,9 @@ PERSON1=John
 PERSON2=Raheem
 
 echo "$PERSON1:: $PERSON2, How are you ?"
-echo "$PERSON2:: Hello $PERSON1, I am fine, How are you ?
-echo "$PERSON1:: what are you learnig recently ?
-echo "$PERSON2 I am learning shell scripting Rames
+echo "$PERSON2:: Hello $PERSON1, I am fine, How are you ?"
+echo "$PERSON1:: what are you learnig recently ?"
+echo "$PERSON2 I am learning shell scripting Rames"
 
 # Through this advntages, only we need to change in variable whenever we need to change.
 

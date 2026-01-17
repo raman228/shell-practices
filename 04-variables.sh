@@ -9,3 +9,7 @@ echo "$PERSON1:: So, do we have a deal"
 echo "$PERSON2:: YES,if you make ukraine joins Russia"
 
 
+## So, this called argument pass not required in the file mention as you can pass $1 $2 $#
+
+
+

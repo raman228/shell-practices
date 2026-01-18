@@ -12,3 +12,8 @@ echo $COURSE
 #root@vm01:~# echo $COURSE
 #DevSecops with AWS
 #root@vm01:~#
+
+
+# To persist need to enter in .bashrc
+
+ 
